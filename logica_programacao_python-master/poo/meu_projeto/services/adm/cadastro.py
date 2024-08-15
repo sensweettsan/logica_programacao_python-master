@@ -1,4 +1,4 @@
-from models.produto import Produto
+from models.produto import Produto 
 
 def cadastro():
     codigo = input('Digite o código: ')

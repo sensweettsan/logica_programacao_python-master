@@ -3,3 +3,4 @@ def impressao(produto):
     print(f'Produto: {produto.nome}')
     print(f'Quantidade em estoque: {produto.quantidade}')
     print(f'Preço: {round(produto.preco, 2)}')
+

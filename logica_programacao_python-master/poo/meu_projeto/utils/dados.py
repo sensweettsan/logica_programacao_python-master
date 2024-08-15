@@ -1,4 +1,5 @@
 def impressao_dados(dado, op):
+    
     print(f'Nome: {dado.nome}')
     print(f'Sexo: {dado.sexo}')
     print(f'CPF: {dado.cpf}')
